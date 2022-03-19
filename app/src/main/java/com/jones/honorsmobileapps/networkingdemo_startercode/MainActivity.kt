@@ -1,8 +1,7 @@
-package com.jones.honorsmobileapps.networkingdemo
+package com.jones.honorsmobileapps.networkingdemo_startercode
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.jones.honorsmobileapps.networkingdemo.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

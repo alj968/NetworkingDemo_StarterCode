@@ -1,10 +1,9 @@
-package com.jones.honorsmobileapps.networkingdemo
+package com.jones.honorsmobileapps.networkingdemo_startercode
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.jones.honorsmobileapps.networkingdemo.databinding.ListItemLayoutBinding
+import com.jones.honorsmobileapps.networkingdemo_startercode.databinding.ListItemLayoutBinding
 
 
 class EarthquakeAdapter(val earthquakes: List<Earthquake>) : RecyclerView.Adapter<EarthquakeViewHolder>() {

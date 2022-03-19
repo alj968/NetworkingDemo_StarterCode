@@ -1,12 +1,7 @@
-package com.jones.honorsmobileapps.networkingdemo
+package com.jones.honorsmobileapps.networkingdemo_startercode
 
-import android.R
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
-import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.jones.honorsmobileapps.networkingdemo.databinding.ListItemLayoutBinding
+import com.jones.honorsmobileapps.networkingdemo_startercode.databinding.ListItemLayoutBinding
 import java.text.DecimalFormat
 import java.text.SimpleDateFormat
 import java.util.*

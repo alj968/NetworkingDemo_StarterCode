@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/main_fragment"
-        android:name="com.jones.honorsmobileapps.networkingdemo.MainFragment"
+        android:name="com.jones.honorsmobileapps.networkingdemo_startercode.MainFragment"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

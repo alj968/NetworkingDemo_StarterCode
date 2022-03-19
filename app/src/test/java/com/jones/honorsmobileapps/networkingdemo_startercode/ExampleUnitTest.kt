@@ -1,4 +1,4 @@
-package com.jones.honorsmobileapps.networkingdemo
+package com.jones.honorsmobileapps.networkingdemo_startercode
 
 import org.junit.Test
 

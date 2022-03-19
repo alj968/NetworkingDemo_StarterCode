@@ -1,4 +1,4 @@
-package com.jones.honorsmobileapps.networkingdemo
+package com.jones.honorsmobileapps.networkingdemo_startercode
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
-import com.jones.honorsmobileapps.networkingdemo.databinding.FragmentMainBinding
+import com.jones.honorsmobileapps.networkingdemo_startercode.databinding.FragmentMainBinding
 
 class MainFragment : Fragment() {
 
